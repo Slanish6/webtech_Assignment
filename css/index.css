@@ -1,0 +1,54 @@
+.bodystyle{
+
+    background-color: #1e4363;
+    color: #d8e6e6;
+  
+}
+.ullist{
+
+padding-left: 10px;
+
+}
+.nav-item{
+
+padding-left: 10px;
+
+}
+.roundimage{
+    border-radius: 100px;
+    height: 129px;
+    width: 129px;
+
+   
+}
+.imgpos{
+
+    padding-left:355px;
+    padding-top:71px;
+
+}
+.text{
+ position:absolute;
+ top:159px;
+ left: -115px;
+ padding-left: 640px;
+ opacity: .7;
+    
+}
+
+.content{
+    left: 200px;
+    position: absolute;
+    top: 317px;
+}
+.logo{
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+
+}
+.subcontent{
+    padding-left: 776px;
+    padding-top: 72px;
+
+}

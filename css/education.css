@@ -1,0 +1,42 @@
+.bodystyle{
+
+    background-color: #1e4363;
+    color: #d8e6e6;
+  
+}
+.ullist{
+
+    padding-left: 10px;
+    
+    }
+    
+.nav-item{
+    
+    padding-left: 10px;
+    
+    }
+
+.row{
+
+    align-items: flex-start;
+    padding-top: 20px;
+}    
+tr,th,td{
+
+border: 1px solid white;
+padding-left: 20px;
+padding-top:10px
+
+
+}
+.container{
+padding-left:20px;
+margin-left: 15px;
+position: absolute;
+}
+
+.content{
+    left: 200px;
+    position: absolute;
+    top: 317px;
+}
